@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 095d32313b28c5a49ad3bca4ca0cb1bb, type: 3}
+  m_Name: Card Color Data
+  m_EditorClassIdentifier: 
+  materials:
+  - {fileID: 2100000, guid: 5b0a1096a0d61a142854649c1663bf52, type: 2}
+  - {fileID: 2100000, guid: 788504aead23172419765ffe47bdc9a3, type: 2}
+  - {fileID: 2100000, guid: aa0863e2d1a86ae498a429174780526d, type: 2}
+  - {fileID: 2100000, guid: fea5f6cc0949fa34abda8a6efdf60525, type: 2}
+  - {fileID: 2100000, guid: 6fe889c50bb6b194698921cc9a5d395c, type: 2}
